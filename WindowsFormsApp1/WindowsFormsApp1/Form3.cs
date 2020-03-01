@@ -45,7 +45,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
             // 접속문 선언입니다.
-            strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=new_stu; Password=00xx00xx~; charset=utf8; sslMode=none");
+            strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=jjm; Password=00xx00xx~; charset=utf8; sslMode=none");
             
             try // 데이터 베이스 문제 발생을 대비하여 예외문을 설정해줍니다.
             {

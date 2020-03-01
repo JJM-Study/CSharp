@@ -24,7 +24,7 @@ namespace WindowsFormsApp1
         {
             InitializeComponent();
             // 접속문 선언
-            strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=new_stu; Password=00xx00xx~; charset=utf8; sslMode=none");
+            strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=jjm; Password=00xx00xx~; charset=utf8; sslMode=none");
             // 접속 시작
             try // 데이터 베이스 문제 발생을 대비하여 예외문을 설정해줍니다.
             {
@@ -61,7 +61,7 @@ namespace WindowsFormsApp1
             try
             {
                 // 커넥션 스트링을 생성합니다.
-                strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=new_stu; Password=00xx00xx~; charset=utf8; sslMode=none");
+                strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=jjm; Password=00xx00xx~; charset=utf8; sslMode=none");
                 oCnn = new MySqlConnection(strCnn);
                 oCnn.Open();  // 접속합니다.
                 
@@ -89,7 +89,7 @@ namespace WindowsFormsApp1
             try
             {
           
-                strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=new_stu; Password=00xx00xx~; charset=utf8; sslMode=none");
+                strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=jjm; Password=00xx00xx~; charset=utf8; sslMode=none");
                 oCnn = new MySqlConnection(strCnn);
                 oCnn.Open();
          
@@ -124,7 +124,7 @@ namespace WindowsFormsApp1
         {
             try
             {
-                strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=new_stu; Password=00xx00xx~; charset=utf8; sslMode=none");
+                strCnn = string.Format("Data Source=webdeveloper.iptime.org; port=3306; Initial catalog=jjm; User id=jjm; Password=00xx00xx~; charset=utf8; sslMode=none");
                 oCnn = new MySqlConnection(strCnn);
                 oCnn.Open();
                 mySqlDataAdapter = new MySqlDataAdapter("update grade set years=(" + years.Text + "),semester=(" + semester.Text + "),division=('" + division.Text + "'),course=('" + course.Text + "'),grades=(" + grades.Text + "),rank=('" + rank.Text + "'),grade=(" + grade.Text + ") WHERE number = " + number.Text + "", oCnn);
