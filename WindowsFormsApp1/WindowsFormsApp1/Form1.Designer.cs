@@ -54,6 +54,7 @@
             this.MyID.Name = "MyID";
             this.MyID.Size = new System.Drawing.Size(295, 21);
             this.MyID.TabIndex = 1;
+            this.MyID.Text = "21000000";
             // 
             // MyPassWord
             // 
@@ -62,6 +63,7 @@
             this.MyPassWord.PasswordChar = '*';
             this.MyPassWord.Size = new System.Drawing.Size(295, 21);
             this.MyPassWord.TabIndex = 2;
+            this.MyPassWord.Text = "910312";
             // 
             // label1
             // 
