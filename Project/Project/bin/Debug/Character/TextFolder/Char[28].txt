@@ -1,0 +1,6 @@
+412341
+
+{\rtf1\ansi\ansicpg949\deff0\nouicompat\deflang1033\deflangfe1042{\fonttbl{\f0\fswiss\fcharset0 Calibri;}{\f1\fnil\fcharset129 \'b1\'bc\'b8\'b2;}}
+{\*\generator Riched20 10.0.19041}\viewkind4\uc1 
+\pard\f0\fs18 12314\f1\lang1042\par
+}
