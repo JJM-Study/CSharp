@@ -67,3 +67,23 @@ C:\My Space\Portfolio\C#\Project\Project\Project\obj\Debug\Project.csproj.CopyCo
 C:\My Space\Portfolio\C#\Project\Project\Project\obj\Debug\Project.exe
 C:\My Space\Portfolio\C#\Project\Project\Project\obj\Debug\Project.pdb
 C:\My Space\Portfolio\C#\Project\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\CSharp\Project\Project\bin\Debug\Project.exe.config
+C:\Users\user\Documents\CSharp\Project\Project\bin\Debug\Project.exe
+C:\Users\user\Documents\CSharp\Project\Project\bin\Debug\Project.pdb
+C:\Users\user\Documents\CSharp\Project\Project\bin\Debug\INIFileParser.dll
+C:\Users\user\Documents\CSharp\Project\Project\bin\Debug\INIFileParser.xml
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.csproj.AssemblyReference.cache
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.csproj.SuggestedBindingRedirects.cache
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.Calculator.resources
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.Form1.resources
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.Form_SkillList.resources
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.Form_Pic.resources
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.Form_Story.resources
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.Form_Skill.resources
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.Main_Form.resources
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.Properties.Resources.resources
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.csproj.GenerateResource.cache
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.csproj.CoreCompileInputs.cache
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.csproj.CopyComplete
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.exe
+C:\Users\user\Documents\CSharp\Project\Project\obj\Debug\Project.pdb

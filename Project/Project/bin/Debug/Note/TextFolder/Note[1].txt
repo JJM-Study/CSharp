@@ -1,6 +1,10 @@
-Note.Eng
+스프링 게시판
 
-Title
-Content
-note
-detail note
+O/S
+window 10
+DB
+MSSQL
+Server
+Tomcat 9.0
+Lanuage
+JSP, JS, CSS
