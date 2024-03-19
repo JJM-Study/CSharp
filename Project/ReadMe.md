@@ -79,7 +79,7 @@ Detail의 그리드뷰에서 세부 내용 입력
 
 ![Image](https://github.com/JJM-Study/jjm/blob/8f31c6f184c3ee3987877a749c22acad5e21d5a7/Repositoiry%20Resources/C%23/Guide2.jpg)
 
-Picture Box 컨트롤 클릭 시 파일 첨부 다이얼로그 활성화
+Picture Box 컨트롤 클릭 시 파일 첨부 다이얼로그 활성화되어 이미지 첨부 가능.
 
 <br>
 <br>
