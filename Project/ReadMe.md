@@ -7,10 +7,10 @@
 * 개인 프로젝트
 
 <h2> 사용 기술 및 개발 환경 </h2>
-* O/S : window 10
-* DB: MSSQL
-* Tool : Visual Studio 2019
-* Language : C# (Winform)
+<p>* O/S : window 10<p>
+<p>* DB: MSSQL</p>
+<p>* Tool : Visual Studio 2019</p>
+<p>* Language : C# (Winform)</p>
 
 <h2>내용</h2>
 <h3>메모 화면</h3>
