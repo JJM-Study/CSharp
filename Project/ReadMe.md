@@ -1,7 +1,7 @@
 <h1>메모장</h1>
 
 <h3>만든 목적</h3>
-* 
+* 개성 있고 간편한 메모 작성을 위해서 개발
 
 <h3>프로젝트 진행 방식</h3>
 * 개인 프로젝트
@@ -38,6 +38,14 @@
 
 <br>
 Detail의 그리드뷰에서 세부 내용 입력
+<br>
+<br>
+<br>
+
+![Image](https://github.com/JJM-Study/jjm/blob/bf9e23f1c9b0ca51f8966991925feaa0dfefaa80/Repositoiry%20Resources/C%23/Page3.png)
+
+<br>
+
 <br>
 <br>
 <br>
