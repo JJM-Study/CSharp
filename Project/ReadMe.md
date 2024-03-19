@@ -42,7 +42,7 @@ Detail의 그리드뷰에서 세부 내용 입력
 <br>
 <br>
 
-![Image](https://github.com/JJM-Study/jjm/blob/4a766b2f84037f74aee50e52a91f8c834d2ab40f/Repositoiry%20Resources/C%23/Page4.png)
+![Image](https://github.com/JJM-Study/jjm/blob/c692e1bc1acd158e4b5e3ee77b875392c858029a/Repositoiry%20Resources/C%23/Page4.png)
 
 <br>
 
