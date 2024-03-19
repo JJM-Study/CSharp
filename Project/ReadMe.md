@@ -46,6 +46,20 @@ Detail의 그리드뷰에서 세부 내용 입력
 
 <br>
 
+화살표 버튼 또는 메모 List의 그리드뷰를 클릭해서 페이지 이동
+
+<br>
+<br>
+<br>
+
+![Image](https://github.com/JJM-Study/jjm/blob/2b8ca4d28b99e901b06d0216b03aca2533cb4354/Repositoiry%20Resources/C%23/Change_Title3.png)
+
+<br>
+
+노트 번호(Note.No), 노트 제목(Name) 입력 후 저장 시 수정 가능.
+
+중복 노트 번호가 있을 경우 기존 노트 번호와 교환.
+
 <br>
 <br>
 <br>
