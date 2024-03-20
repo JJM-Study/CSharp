@@ -8,7 +8,6 @@
 
 <h2> 사용 기술 및 개발 환경 </h2>
 <p>* O/S : window 10<p>
-<p>* DB: MSSQL</p>
 <p>* Tool : Visual Studio 2019</p>
 <p>* Language : C# (Winform)</p>
 
